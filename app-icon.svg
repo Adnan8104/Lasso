@@ -20,7 +20,7 @@
   <g transform="translate(112 150) scale(8.6)" filter="url(#shadow)">
     <g fill="none" stroke="url(#lasso)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
       <path d="M75 41 C75 30 60 22 42 23 C23 24 10 34 11 45 C12 58 30 65 50 62 C69 59 80 49 75 41"/>
-      <path d="M72 48 C77 57 74 66 64 74"/>
+      <path d="M72 48 C82 60 80 76 68 88 C64 92 59 94 54 95"/>
     </g>
   </g>
 </svg>
