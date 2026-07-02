@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app-icon.svg" width="160" alt="Lasso app logo">
+  <img src="app-icon.png" width="160" alt="Lasso app logo">
 </p>
 
 <h1 align="center">Lasso</h1>
@@ -52,4 +52,4 @@ More detail is in `docs/install.md`.
 - `hammerspoon/init.lua` - Hammerspoon runtime.
 - `adapters/` - generic shell adapters.
 - `install.sh` - local installer.
-- `app-icon.svg`, `lasso.svg`, `lasso-off.svg` - app and menu-bar icons.
+- `app-icon.png` - app logo. `lasso.svg`, `lasso-off.svg` - menu-bar icons.
