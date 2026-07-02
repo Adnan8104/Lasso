@@ -17,6 +17,13 @@ Lasso is a small macOS menu-bar prototype that routes focus away while a long-ru
 - Supports per-session return when adapters provide a `session_id`.
 - Includes optional desktop chat detection through macOS Accessibility.
 
+## Download
+
+You can install Lasso either way:
+
+- **Release ZIP:** download the latest source ZIP from the [Releases page](https://github.com/Adnan8104/Lasso/releases), unzip it, then run `./install.sh` from that folder.
+- **Git clone:** clone the repo and run the installer from Terminal.
+
 ## Install
 
 Requires macOS and [Hammerspoon](https://www.hammerspoon.org/).
